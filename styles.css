@@ -1,0 +1,41 @@
+table, th, td {
+    border: 1px solid;
+    padding: 3px;
+    border-spacing: 3px;
+
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info_section {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.book-section {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.haiku-section{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.essay-section{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.schedule-section{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body{
+    background-image: url("green_circle.png");
+    background-repeat: repeat
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+table{
+    table-layout: fixed;
+    width: 600px;
+}
